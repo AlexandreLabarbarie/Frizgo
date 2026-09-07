@@ -465,7 +465,7 @@ node ace tinker                  # REPL interactif
 - Résolution d'une race condition provoquant des erreurs `429` lors du scan (verrouillage synchrone des requêtes)
 - Fiabilisation de l'estimation des dates de péremption par Mistral AI (prompt enrichi + plafond de sécurité à 730 jours)
 
-### Alex — Authentification & sécurité
+### Alexandre — Authentification & sécurité
 
 - Bugs de fuseau horaire faisant apparaître des aliments comme périmés alors qu'ils ne l'étaient pas (et inversement)
 - **Solution :** harmonisation de tout le projet sur un même fuseau horaire, et calcul de la péremption des produits au jour près plutôt qu'à l'heure/minute près
