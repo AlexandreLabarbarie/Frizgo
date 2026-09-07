@@ -1,12 +1,5 @@
 # Frizgo
-API backend d'une app mobile anti-gaspillage alimentaire, développée en équipe. AdonisJS v6 + TypeScript, PostgreSQL, authentification JWT, 125 tests (Japa), documentation Swagger, CI/CD GitLab/Docker.
 
-
-
-# 🥗 FrizGo
-<div align="center">
-<img src="./Fiche&assets/assets/logo-frizgo.png" width="450">
-</div>
 
 **FrizGo** est une application mobile anti-gaspillage alimentaire qui aide les utilisateurs à suivre le contenu de leur frigo, à être alertés avant la péremption de leurs produits, et à valoriser ce qu'il leur reste grâce à des suggestions de recettes générées par IA.
 
